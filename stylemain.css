@@ -1,0 +1,29 @@
+title {
+  font-size: 20em;
+  color: orange;
+  font-family: cursive;
+}
+h1 {
+  text-align: center;
+  color: pink;
+  font-size: 15em;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+h2 {
+  color: green;
+  font-size: 12em;
+  font-family: fantasy;
+}
+p {
+  color: black;
+  font-size: 10em;
+  font-family: serif;
+  text-align: right;
+}
+footer {
+  text-align: center;
+  font-size: 5em;
+  color: blue;
+
+}
